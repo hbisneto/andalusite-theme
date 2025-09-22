@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "PowerPoint Tokens",
+	"name": "Andalusite Tokens",
 	"colors": {
 		"activityBar.background": "#000",
 		"activityBar.foreground": "#ff8f6b",
