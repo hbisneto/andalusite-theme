@@ -1,7 +1,7 @@
 {
-    "displayName":"PowerPoint Theme",
-    "description":"Microsoft PowerPoint Theme for Visual Studio Code",
+    "displayName":"Andalusite Theme",
+    "description":"Andalusite Theme for Visual Studio Code",
 
-    "PowerPointDark":"PowerPoint Theme (Dark)",
-    "PowerPointLight":"PowerPoint Theme (Light)"
+    "AndalusiteDark":"Andalusite Theme (Dark)",
+    "AndalusiteLight":"Andalusite Theme (Light)"
 }

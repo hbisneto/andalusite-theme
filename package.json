@@ -3,7 +3,7 @@
     "displayName":"%displayName%",
     "description":"%description%",
     "categories":["Themes"],
-    "version":"1.0.0",
+    "version":"1.1.0",
     "publisher":"BisnetoInc",
     "icon": "assets/icon.png",
     "license":"MIT",
@@ -18,16 +18,16 @@
         "themes":
         [
             {
-                "id":"PowerPoint (Dark)",
-                "label":"%PowerPointDark%",
+                "id":"Andalusite (Dark)",
+                "label":"%AndalusiteDark%",
                 "uiTheme":"vs-dark",
-                "path":"./themes/Dark/powerpoint-theme-dark.json"
+                "path":"./themes/Dark/andalusite-theme-dark.json"
             },
             {
-                "id":"PowerPoint (Light)",
-                "label":"%PowerPointLight%",
+                "id":"Andalusite (Light)",
+                "label":"%AndalusiteLight%",
                 "uiTheme":"vs",
-                "path":"./themes/Light/powerpoint-theme-light.json"
+                "path":"./themes/Light/andalusite-theme-light.json"
             }
         ]
     },
@@ -35,6 +35,6 @@
     "repository":
     {
         "type":"git",
-        "url":"https://github.com/hbisneto/powerpoint-theme.git"
+        "url":"https://github.com/hbisneto/andalusite-theme.git"
     }
 }
